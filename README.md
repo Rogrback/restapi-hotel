@@ -14,7 +14,6 @@ Empieza con la creación del cliente a través de la web, donde se adjunta los s
 Adicionalmente, se tiene la información del cliente sobre:
 * Último acceso del cliente
 * Observaciones sobre el cliente
-
 Una vez obtenido la información del cliente, se puede obtener una reserva, éstas detallan los siguientes datos:
 * Cliente
 * Habitación reservada
@@ -22,7 +21,6 @@ Una vez obtenido la información del cliente, se puede obtener una reserva, ést
 * Estado de la reserva (Pendiente, pagado o eliminado)
 * Tipo de pago
 * Observaciones sobre la reserva
-
 ## APIS UTILIZADAS
 ### API CUSTOMER
 Listar cliente
@@ -33,7 +31,6 @@ Crear cliente
 ```
 localhost:4000/api/create-customer
 ```
-
 ### API RESERVATION
 
 Listar reservación
