@@ -18,9 +18,9 @@ Adicionalmente, se tiene la información del cliente sobre:
 
 Una vez obtenido la información del cliente, se puede obtener una reserva, éstas detallan los siguientes datos:
 * Cliente
-* Habitación reservada
+* Habitación
 * Fecha inicial y final de la reserva
-* Estado de la reserva (Pendiente, pagado o eliminado)
+* Estado (Pendiente, pagado o eliminado)
 * Tipo de pago
 * Observaciones sobre la reserva
 ## APIS
