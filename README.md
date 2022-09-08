@@ -9,7 +9,7 @@ Tecnologías que eh utilizado en este proyecto:
 Empieza con la creación del cliente a través de la web, donde se adjunta los siguientes datos:
 * Nombre y apellido
 * Número de teléfono
-* Tipo de documento de identificació y su número
+* Tipo de documento de identificación y su número
 * Correo y contraseña (en este caso para las reservas en la página web del hotel)
 
 Adicionalmente, se tiene la información del cliente sobre:
