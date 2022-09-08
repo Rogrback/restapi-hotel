@@ -23,7 +23,7 @@ Una vez obtenido la información del cliente, se puede obtener una reserva, ést
 * Estado de la reserva (Pendiente, pagado o eliminado)
 * Tipo de pago
 * Observaciones sobre la reserva
-## APIS UTILIZADAS
+## APIS
 ### API CUSTOMER
 Listar cliente
 ```
