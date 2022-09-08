@@ -18,6 +18,5 @@ db.reseevation_state = require("./reservation_state")(sequelize, Sequelize); // 
 db.room = require("./room")(sequelize, Sequelize); // table room
 db.type_document = require("./type_document")(sequelize, Sequelize); // table type_document
 db.type_payment = require("./type_payment")(sequelize, Sequelize); // table type_payment
-db.type_room = require("./type_room")(sequelize, Sequelize); // table type_room
 
 module.exports = db;
