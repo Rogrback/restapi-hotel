@@ -11,9 +11,11 @@ Empieza con la creación del cliente a través de la web, donde se adjunta los s
 * Número de teléfono
 * Tipo de documento de identificació y su número
 * Correo y contraseña (en este caso para las reservas en la página web del hotel)
+
 Adicionalmente, se tiene la información del cliente sobre:
 * Último acceso del cliente
 * Observaciones sobre el cliente
+
 Una vez obtenido la información del cliente, se puede obtener una reserva, éstas detallan los siguientes datos:
 * Cliente
 * Habitación reservada
