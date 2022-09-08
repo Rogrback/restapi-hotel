@@ -43,3 +43,5 @@ Crear reservación
 ```
 localhost:4000/api/create-reservation
 ```
+# BASE DE DATOS
+![ERD](https://user-images.githubusercontent.com/53346752/189178499-2cc8d7c2-b71c-4d20-ab37-18d8eefb9f84.png)
